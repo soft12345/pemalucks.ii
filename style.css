@@ -1,0 +1,54 @@
+body {
+    font-family: Stalin One;
+    background-color: hsl(36, 100%, 52%) ;
+}
+
+header{
+  background-color: #FF9900 ;  
+}
+main{
+  background-color: #FF9900 ;  
+}
+footer{
+  background-color: #FF9900 ;  
+}
+header h1{
+  background-color: #FF7400 ; 
+  text-align: right; 
+  font-size: 30px ;
+  margin-left: 128px ;
+  margin-buttom: 128px
+}
+header h2{
+  background-color: #FF7400 ; 
+  text-align: right; 
+  font-size: 25px ;
+  margin-left: 128px ;
+  
+}
+header img{ 
+  font-size: 25px ;
+  margin-left: 128px ;
+  width: 96px;
+  height: 106px ;
+  text-align: left;
+
+  
+}
+nav {
+background-color: #FF9900;
+padding: 30px;
+}
+nav a {
+text-decoration: none ;
+margin: 40px;
+font-size: 20px;
+background-color: #FF7400 ;
+padding: 20px
+}
+main img{
+width: 396px;
+height: 306px ;
+
+
+}
